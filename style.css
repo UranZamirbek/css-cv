@@ -39,6 +39,7 @@ margin: auto;
         font-size: calc(20px + 27 * (100vw /1000));
     }
 
+
 .info {
     /* margin-left: 180px; */
     position: relative;
